@@ -12,7 +12,7 @@ permalink: /
 
 <div class="col-sm-8">
 
-Hi! I am a second year MS student in the <a href="https://cvit.iiit.ac.in/">CVIT</a> group at <a href="https://www.iiit.ac.in/">IIIT Hyderabad</a>, advised by <a href="https://faculty.iiit.ac.in/~jawahar/">Prof. C. V. Jawahar</a> and <a href="https://makarandtapaswi.github.io/">Prof. Makarand Tapaswi</a>. I am working in multi-model learning (jointly learning from vision and language modalities). 
+Hi! I am a second year MS student in the <a href="https://cvit.iiit.ac.in/">CVIT</a> group at <a href="https://www.iiit.ac.in/">IIIT Hyderabad</a>, advised by <a href="https://faculty.iiit.ac.in/~jawahar/">Prof. C. V. Jawahar</a> and <a href="https://makarandtapaswi.github.io/">Prof. Makarand Tapaswi</a>. I am working in multimodal learning (jointly learning from vision and language modalities). 
 
 Prior to this I was an Engineer at <a href="https://www.mbrdi.co.in/">Mercedes Benz Research & Development India</a>.
 
