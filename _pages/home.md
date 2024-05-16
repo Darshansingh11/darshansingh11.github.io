@@ -1,7 +1,7 @@
 ---
-title: "Zeeshan Khan - Home"
+title: "Darshan Singh S - Home"
 layout: gridlay
-excerpt: "Zeeshan Khan"
+excerpt: "Darshan Singh S"
 sitemap: false
 permalink: /
 ---
@@ -12,7 +12,7 @@ permalink: /
 
 <div class="col-sm-8">
 
-Hi! I am a first year PhD student in the <a href="http://www.di.ens.fr/willow">Willow</a> team at <a href="https://www.inria.fr/en">Inria</a> and  <a href="https://www.ens.psl.eu/en">École Normale Supérieure</a> in Paris, advised by <a href="https://cshizhe.github.io">Shizhe Chen</a> and <a href="https://www.di.ens.fr/willow/people_webpages/cordelia/">Cordelia Schmid</a>. I am working in vision-language understanding and generation. 
+Hello <a href="http://www.di.ens.fr/willow">Willow</a> team at <a href="https://www.inria.fr/en">Inria</a> and  <a href="https://www.ens.psl.eu/en">École Normale Supérieure</a> in Paris, advised by <a href="https://cshizhe.github.io">Shizhe Chen</a> and <a href="https://www.di.ens.fr/willow/people_webpages/cordelia/">Cordelia Schmid</a>. I am working in vision-language understanding and generation. 
 
 I did my Masters by Research in Computer Science from <a href="http://cvit.iiit.ac.in">CVIT IIIT Hyderabad</a> advised by <a href="https://faculty.iiit.ac.in/~jawahar/index.html">C.V. Jawahar</a> and <a href="https://makarandtapaswi.github.io">Makarand Tapaswi</a>. My thesis was on Situation Recognition for Holistic Video Understanding.
 
