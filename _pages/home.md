@@ -22,7 +22,7 @@ I am broadly interested in the problems related to computer vision, natural lang
   <a href="./docs/darshan_resume.pdf">CV</a> /
   <a href="https://scholar.google.com/citations?user=CHFzTuQAAAAJ&hl=en">Google Scholar</a> /
   <a href="https://github.com/Darshansingh11">Github</a> /
-  <a href="https://www.linkedin.com/in/darshansinghs-">LinkedIn</a> /
+  <a href="https://www.linkedin.com/in/darshansinghs">LinkedIn</a> /
 </p>
 
 ### News
