@@ -12,19 +12,17 @@ permalink: /
 
 <div class="col-sm-8">
 
-Hello <a href="http://www.di.ens.fr/willow">Willow</a> team at <a href="https://www.inria.fr/en">Inria</a> and  <a href="https://www.ens.psl.eu/en">École Normale Supérieure</a> in Paris, advised by <a href="https://cshizhe.github.io">Shizhe Chen</a> and <a href="https://www.di.ens.fr/willow/people_webpages/cordelia/">Cordelia Schmid</a>. I am working in vision-language understanding and generation. 
+Hi! I am a second year MS student in the <a href="https://cvit.iiit.ac.in/">CVIT</a> group at <a href="https://www.iiit.ac.in/">IIIT Hyderabad</a>, advised by <a href="https://faculty.iiit.ac.in/~jawahar/">Prof. C. V. Jawahar</a> and <a href="https://makarandtapaswi.github.io/">Prof. Makarand Tapaswi</a>. I am working in multi-model learning (jointly learning from vision and language modalities). 
 
-I did my Masters by Research in Computer Science from <a href="http://cvit.iiit.ac.in">CVIT IIIT Hyderabad</a> advised by <a href="https://faculty.iiit.ac.in/~jawahar/index.html">C.V. Jawahar</a> and <a href="https://makarandtapaswi.github.io">Makarand Tapaswi</a>. My thesis was on Situation Recognition for Holistic Video Understanding.
+Prior to this I was an Engineer at <a href="https://www.mbrdi.co.in/">Mercedes Benz Research & Development India</a>.
 
-Prior to this I was a Research Assistant in the Computer Vision lab at <a href="https://iitgn.ac.in">IIT Gandhinagar</a>, advised by <a href="https://people.iitgn.ac.in/~shanmuga/"> Shanmuganathan Raman</a>. I worked in Computational Photography specifically in high dynamic range video reconstruction and generative modeling in appearance consistent human pose transfer.  
-
-I am interested in holistic video representation learning, and its application in both vision-language perception and generation. I aim at building machines that can interact with the real world, possessing multimodal sensing abilities, long term spatio-temporal reasoning, and the ability to generate natural language.
+I am broadly interested in the problems related to computer vision, natural language processing and multimodal representation learning (especially using self-supervision).
 
 <p align="center">
-  <a href="./docs/Zeeshan_cv_2022.pdf">CV</a> /
-  <a href="https://scholar.google.com/citations?user=uvhBVYoAAAAJ&hl=en">Google Scholar</a> /
-  <a href="https://github.com/zeeshank95">Github</a> /
-  <a href="https://www.linkedin.com/in/khan-zeeshan-606-">LinkedIn</a> /
+  <a href="./docs/darshan_resume.pdf">CV</a> /
+  <a href="https://https://scholar.google.com/citations?user=CHFzTuQAAAAJ&hl=en">Google Scholar</a> /
+  <a href="https://github.com/Darshansingh11">Github</a> /
+  <a href="https://www.linkedin.com/in/darshansinghs-">LinkedIn</a> /
 </p>
 
 ### News
@@ -41,13 +39,11 @@ I am interested in holistic video representation learning, and its application i
 
   <div class="text-left">
   <ul style="overflow: hidden">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/profile_pic.jpeg" class="img-responsive" width="100%" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/photo_darshan.jpeg" class="img-responsive" width="100%" />
   </ul>
 
   <!-- <br clear="all" /> -->
-  <A HREF="mailto:zeeshan.khan@inria.fr">zeeshan.khan@inria.fr</A> <br>
-  Office: C-412<br>
-  Address: 2 Rue Simone IFF, 75012 Paris France<br>
+  <A HREF="mailto:darshan.singh@research.iiit.ac.in">darshan.singh@research.iiit.ac.in</A> <br>
 
 </div>
 

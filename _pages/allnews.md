@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: gridlay
-excerpt: "Zeeshan Khan"
+excerpt: "Darshan Singh S"
 sitemap: false
 permalink: /allnews.html
 ---

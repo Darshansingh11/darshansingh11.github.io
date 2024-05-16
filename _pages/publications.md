@@ -1,7 +1,7 @@
 ---
-title: "Zeeshan Khan - Publications"
+title: "Darshan Singh S - Publications"
 layout: gridlay
-excerpt: "Zeeshan Khan -- Publications."
+excerpt: "Darshan Singh S -- Publications."
 sitemap: false
 permalink: /publications/
 ---

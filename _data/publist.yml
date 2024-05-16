@@ -1,78 +1,22 @@
-- title: 'Grounded Video Situtation Recognition'
-  image: Neurips.jpg
-  description: We formulate a new structured framework for dense video understanding and propose a Transformer based model, VideoWhisperer that operates on a group of clips and jointly predicts all the salient actions, Semantic roles via captioning and, spatio temporal grounding in a weakly supervised setting
-  authors: <b>Zeeshan Khan</b>, <a href="https://faculty.iiit.ac.in/~jawahar/index.html">C.V. Jawahar</a>, <a href="https://makarandtapaswi.github.io">Makarand Tapaswi</a>
-  venue: <i>In Neural Information Processing Systems (<b>NeurIPS</b>), 2022</i>
-  number_link: 3
-  link1:
-    url: https://arxiv.org/abs/2210.10828
-    display: Paper
-  link2:
-    url: https://zeeshank95.github.io/grvidsitu
-    display: Project Page
-  link3:
-    url: https://zeeshank95.github.io/grvidsitu
-    display: Code (Github)
-
-- title: 'More Parameters No Thanks!'
-  image: ACL.png
-  description: We propose to recursively prune and retrain a Transformer to find language dependent submodules that involves 2 type of paramteres, 1)Shared multlingual and 2)Unique Language dependent parameters, to overcome negative interference in Multilingual Neural Machine translation. 
-  authors: <b>Zeeshan Khan</b>, Kartheek Akella, <a href="https://vinaypn.github.io"> Vinay Namboodiri</a>, and <a href="https://faculty.iiit.ac.in/~jawahar/index.html"> C.V. Jawahar </a>
-  venue: <i>In Association For Computational Linguistics (<b>ACL</b>) (Findings), 2021</i>
-  number_link: 3
-  link1:
-    url: https://aclanthology.org/2021.findings-acl.9/
-    display: Paper
-  link2:
-    url: http://cvit.iiit.ac.in/research/projects/cvit-projects/more-parameters-no-thanks
-    display: Project Page
-  link3:
-    url: https://github.com/zeeshank95/PF-Adaptation
-    display: Code (Github)
-
-
-- title: "DeepHS-HDRVideo : Deep High Speed High Dynamic Range Video Reconstruction"
-  image: HDR_video.png
-  description: This is the first attempt towards generating high speed high dynamic range videos from low speed low dynamic range videos. We use video frame interpolation to recursivrly generate the high and low exposure images missing in the input alternative exposure frames. The High and Low exposure frames are merged at each timestep to generate an HDR video.
-  authors: <b>Zeeshan Khan</b>, Parth Shettiwar, Mukul Khanna, <a href="https://people.iitgn.ac.in/~shanmuga/">Shanmuganathan Raman</a>
-  venue: <i>In International Conference on Pattern Recognition(<b>ICPR</b>), 2022 <span style="color:red;">(ORAL)</span></i>
-  number_link: 2
-  link1:
-    url: https://arxiv.org/abs/2210.04429
-    display: Paper
-  link2:
-    url: https://youtu.be/TWWv7fh0Slk
-    display: Video
-
-- title: Appearance Consistent Human Pose Transfer via Dynamic Feature Selection
-  image: Pose_transfer.png
-  description: We present a robut deep architecture for Appearance Consistent person image generation in novel poses. We incorporate a 3 stream network, for image, pose, and appearance. Additionaly we use Gated convolutions and, Non-local attention blocks for generating realistic images.
-  authors: Ashish Tiwari, <b>Zeeshan Khan</b>, <a href="https://people.iitgn.ac.in/~shanmuga/">Shanmuganathan Raman</a>
-  venue: <i>In International Conference on Pattern Recognition (<b>ICPR</b>), 2022</i>
+- title: 'FigCLIP: Fine-Grained CLIP Adaptation via Densely Annotated Videos'
+  image: srl_clip.png
+  description: Addressed the lack of fine-grained and syntactic information in CLIP’s representations by adapting CLIP on holistic, multidimensional, and densely annotated video-text data using lightweight adaptation strategy with LoRA adapters.
+  authors: <b>Darshan Singh S</b>, <a href="https://zeeshank95.github.io/">Zeeshan Khan</a>, <a href="https://makarandtapaswi.github.io">Makarand Tapaswi</a>
+  # venue: <i>In Neural Information Processing Systems (<b>NeurIPS</b>), 2022</i>
   number_link: 1
   link1:
-    url: https://zeeshank95.github.io/
-    display: Paper
+    url: https://arxiv.org/abs/2401.07669/
+    display: Paper (under review)
 
-- title: Exploring Pair-Wise NMT for Indian Languages
-  image: ICON.png
-  description: We address the task of improving pair-wise machine translation for low resource Indian languages using a filtered back-translation process and subsequent fine-tuning on the limited pair-wise language corpora
-  authors: Kartheek Akella, Sai Himal Allu, Sridhar Suresh Ragupathi, Aman Singhal,<b>Zeeshan Khan</b>, <a href="https://vinaypn.github.io"> Vinay Namboodiri</a>, and <a href="https://faculty.iiit.ac.in/~jawahar/index.html"> C.V. Jawahar </a>
-  venue: <i>In International Conference on Natural Language Processing(<b>ICON</b>) 2020</i>
-  number_link: 1
-  link1:
-    url: https://aclanthology.org/2020.icon-main.59/
-    display: Paper
-
-- title: "FHDR: HDR Image Reconstruction from a Single LDR Image using Feedback Network"
-  image: HDR_img.png
-  description: Proposed a recurrent Feedback CNN for HDR image reconstruction from a single exposure LDR image, achieving SOTA results on all the HDR benchmarks. Designed a novel Dense Feedback Block using hidden states of RNN, to transfer the high-level information to the low-level features. LDR to HDR representations are learned in multiple iterations via feedback loops.
-  authors: <b>Zeeshan Khan</b>, Mukul khanna, and <a href="https://people.iitgn.ac.in/~shanmuga/">Prof. Shanmuganathan Raman</a>
-  venue: <i>In Global Conference on Signal and Information Processing (<b>GlobalSIP</b>) 2019 <span style="color:red;">(ORAL)</span></i> 
+- title: 'Unsupervised Audio Visual Lecture Segmentation'
+  image: avlectures.png
+  description: Proposed video lecture segmentation that splits lectures into bite-sized topics. Approached this problem by first learning the lecture-clip representations by leveraging visual, textual, and OCR cues using a pretext self-supervised task of matching lecture narrations with temporally aligned visual content. Used these learned representations to temporally segment the lectures using an algorithm called TW-FINCH. Introduced a new dataset, AVLectures, a large-scale dataset consisting of 86 courses with over 2,350 lectures covering various STEM subjects from MIT-OpenCourseWare, which we used for pre-training, fine-tuning, and evaluating the segmentation performance.
+  authors: <b>Darshan Singh S</b>, Anchit Gupta, <a href="https://faculty.iiit.ac.in/~jawahar/index.html"> C.V. Jawahar </a> and <a href="https://makarandtapaswi.github.io">Makarand Tapaswi</a>
+  venue: <i>Winter Conference on Applications of Computer Vision (<b>WACV</b>), 2023</i>
   number_link: 2
   link1:
-    url: https://arxiv.org/pdf/1912.11463.pdf
-    display: Paper    
+    url: https://openaccess.thecvf.com/content/WACV2023/html/S._Unsupervised_Audio-Visual_Lecture_Segmentation_WACV_2023_paper.html
+    display: Paper
   link2:
-    url: https://github.com/mukulkhanna/FHDR
-    display: Code (Github)    
+    url: https://github.com/Darshansingh11/AVLectures
+    display: Code (GitHub)
