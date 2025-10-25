@@ -20,6 +20,34 @@
     url: https://arxiv.org/abs/2406.10889
     display: Paper
 
+
+- title: No Detail Left Behind - Revisiting Self-Retrieval for Fine-Grained Image Captioning
+  image: ndlb.png
+  description: A findings rich paper that systematically improves captioning systems across all fronts- Data, Training, Evaluation. We design- (1) a post-training recipe for self-retrieval finetuning with REINFORCE, and (2) a synthetic framework for visually boosting captioning datasets. Jointly they enable captioners to generate fine-grained, succinct descriptions while reducing hallucinations. Using our training recipe, ClipCap, a 200M param simplication of modern MLLMs, outperforms sota open-source MLLMs on fine-grained visual discrimination.
+  authors: <a href="https://manugaurdl.github.io/">Manu Gaur</a>, <b>Darshan Singh S</b>, <a href="https://makarandtapaswi.github.io">Makarand Tapaswi</a>
+  venue: <i>Transactions of Machine Learning Research (<b>TMLR</b>), 2024 (<b>top 10%</b>)</i>
+  number_link: 2
+  link1:
+    url: https://katha-ai.github.io/projects/no-detail-left-behind/
+    display: Project Page
+  link2:
+    url: https://arxiv.org/abs/2409.03025
+    display: Paper
+
+- title: Detect, Describe, Discriminate - Moving Beyond VQA for MLLM Evaluation
+  image: d3.png
+  description: <b>TL;DR</b> It is easier for MLLMs to select an answer from multiple choices during VQA than to generate it independently.
+   We evaluate MLLMs visual capabilities through self-retrieval within highly similar image pairs, revealing that current models struggle to identify fine-grained visual differences, with open-source models failing to outperform random guess.
+  authors: <a href="https://manugaurdl.github.io/">Manu Gaur</a>, <b>Darshan Singh S</b>, <a href="https://makarandtapaswi.github.io">Makarand Tapaswi</a>
+  venue: <i>ECCV EVAL-FoMo Workshop, 2024</i>
+  number_link: 2
+  link1:
+    url: https://katha-ai.github.io/projects/detect-describe-discriminate/
+    display: Project Page
+  link2:
+    url: https://arxiv.org/abs/2409.15125
+    display: Paper
+
 - title: 'FigCLIP: Fine-Grained CLIP Adaptation via Densely Annotated Videos'
   image: srl_clip.png
   description: Addressed the lack of fine-grained and syntactic information in CLIP’s representations by adapting CLIP on holistic, multidimensional, and densely annotated video-text data using lightweight adaptation strategy with LoRA adapters.
