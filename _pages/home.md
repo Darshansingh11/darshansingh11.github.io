@@ -12,9 +12,11 @@ permalink: /
 
 <div class="col-sm-8">
 
-Hi! I am a second year MS student in the <a href="https://cvit.iiit.ac.in/">CVIT</a> group at <a href="https://www.iiit.ac.in/">IIIT Hyderabad</a>, advised by <a href="https://faculty.iiit.ac.in/~jawahar/">Prof. C. V. Jawahar</a> and <a href="https://makarandtapaswi.github.io/">Prof. Makarand Tapaswi</a>. I am working in multimodal learning (jointly learning from vision and language modalities). 
+Hi! I am predoctoral researcher at Google DeepMind, India. I work Multimodal-Multicultural video understanding in Gemini. I primarily work with <a href="https://parthatalukdar.github.io/">Partha Talukdar</a>, <a href="https://research.google/people/106762/?&type=google">Shachi Dave</a>, <a href="https://a-nagrani.github.io/">Arsha Nagrani</a>, <a href="https://tobw.net/">Tobias Weyand</a>, <a href="https://research.google/people/aneliaangelova/?&type=google">Anelia Angelova</a> and <a href="https://scholar.google.com/citations?user=IvqCXP4AAAAJ&hl=en">Cordelia Schmid</a>. Fortunate to be working with so many amazing people!
+Prior to this I spent five months at <a href="">FastCode AI</a> as a Machine Learning Engineer where I worked on Time-Series Modellling, Diffusion Models with <a href="">Arjun Jain</a>.
+Previously, I was a MS student in the <a href="https://cvit.iiit.ac.in/">CVIT</a> group at <a href="https://www.iiit.ac.in/">IIIT Hyderabad</a>, advised by <a href="https://faculty.iiit.ac.in/~jawahar/">Prof. C. V. Jawahar</a> and <a href="https://makarandtapaswi.github.io/">Prof. Makarand Tapaswi</a>. I am working in multimodal learning (jointly learning from vision and language modalities). 
 
-Prior to this I was an Engineer at <a href="https://www.mbrdi.co.in/">Mercedes Benz Research & Development India</a>.
+Before this I was an Engineer at <a href="https://www.mbrdi.co.in/">Mercedes Benz Research & Development India</a>.
 
 I am broadly interested in the problems related to computer vision, natural language processing and multimodal representation learning (especially using self-supervision).
 

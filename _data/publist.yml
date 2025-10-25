@@ -1,7 +1,30 @@
+- title: 'Rethinking Cross-lingual Gaps from a Statistical Viewpoint'
+  image: cross_lingual.png
+  description: We propose an alternative view of the cross-lingual gap in LLMs, hypothesizing that the variance of responses in the target language (not just differences in latent representations) is the primary cause of accuracy drops. We are the first to formalize this gap using bias-variance decomposition, providing extensive experimental evidence to support our hypothesis. Our key finding is that this variance-driven gap can be significantly reduced; we demonstrate that simple inference-time interventions, including a specific prompt instruction to control variance, can improve target language accuracy by 20-25%.
+  authors: Vihari Piratla, Purvam Jain, <b>Darshan Singh S</b>, Trevor Cohn, Partha Talukdar
+  number_link: 1
+  link1:
+    url: https://arxiv.org/abs/2510.15551
+    display: Paper (under review)
+
+
+- title: 'VELOCITI: Benchmarking Video-Language Compositional Reasoning with Strict Entailment'
+  image: velociti.png
+  description: We propose VELOCITI, a new benchmark to evaluate how well Video-LLMs understand compositional reasoning. We introduce StrictVLE (Strict Video-Language Entailment), a new evaluation method that offers a stricter test by requiring models to correctly classify both positive and negative captions. Our key finding is that even state-of-the-art models like Gemini 1.5 Pro (49.3%) perform far below human accuracy (93.0%), showing they significantly struggle to associate agents with their actions, which is one of the most fundamental reasoning skills.
+  authors: Darshana S<sup>*</sup>, Varun Gupta<sup>*</sup>, <b>Darshan Singh S</b><sup>*</sup>, <a href="https://zeeshank95.github.io/">Zeeshan Khan</a>, <a href="https://vineet-gandhi.github.io/">Vineet Gandhi</a>, <a href="https://makarandtapaswi.github.io">Makarand Tapaswi</a>
+  venue: <i>In Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2025</i>
+  number_link: 2
+  link1:
+    url: https://katha-ai.github.io/projects/velociti/
+    display: Project Page
+  link2:
+    url: https://arxiv.org/abs/2406.10889
+    display: Paper
+
 - title: 'FigCLIP: Fine-Grained CLIP Adaptation via Densely Annotated Videos'
   image: srl_clip.png
   description: Addressed the lack of fine-grained and syntactic information in CLIP’s representations by adapting CLIP on holistic, multidimensional, and densely annotated video-text data using lightweight adaptation strategy with LoRA adapters.
-  authors: <b>Darshan Singh S</b>, <a href="https://zeeshank95.github.io/">Zeeshan Khan</a>, <a href="https://makarandtapaswi.github.io">Makarand Tapaswi</a>
+  authors: <b>Darshan Singh</b>, <a href="https://zeeshank95.github.io/">Zeeshan Khan</a>, <a href="https://makarandtapaswi.github.io">Makarand Tapaswi</a>
   # venue: <i>In Neural Information Processing Systems (<b>NeurIPS</b>), 2022</i>
   number_link: 1
   link1:
@@ -11,7 +34,7 @@
 - title: 'Unsupervised Audio Visual Lecture Segmentation'
   image: avlectures.png
   description: Proposed video lecture segmentation that splits lectures into bite-sized topics. Approached this problem by first learning the lecture-clip representations by leveraging visual, textual, and OCR cues using a pretext self-supervised task of matching lecture narrations with temporally aligned visual content. Used these learned representations to temporally segment the lectures using an algorithm called TW-FINCH. Introduced a new dataset, AVLectures, a large-scale dataset consisting of 86 courses with over 2,350 lectures covering various STEM subjects from MIT-OpenCourseWare, which we used for pre-training, fine-tuning, and evaluating the segmentation performance.
-  authors: <b>Darshan Singh S</b>, Anchit Gupta, <a href="https://faculty.iiit.ac.in/~jawahar/index.html"> C.V. Jawahar </a> and <a href="https://makarandtapaswi.github.io">Makarand Tapaswi</a>
+  authors: <b>Darshan Singh</b>, Anchit Gupta, <a href="https://faculty.iiit.ac.in/~jawahar/index.html"> C.V. Jawahar </a> and <a href="https://makarandtapaswi.github.io">Makarand Tapaswi</a>
   venue: <i>Winter Conference on Applications of Computer Vision (<b>WACV</b>), 2023</i>
   number_link: 2
   link1:
