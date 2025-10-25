@@ -7,7 +7,6 @@
     url: https://arxiv.org/abs/2510.15551
     display: Paper (under review)
 
-
 - title: 'VELOCITI: Benchmarking Video-Language Compositional Reasoning with Strict Entailment'
   image: velociti.png
   description: We propose VELOCITI, a new benchmark to evaluate how well Video-LLMs understand compositional reasoning. We introduce StrictVLE (Strict Video-Language Entailment), a new evaluation method that offers a stricter test by requiring models to correctly classify both positive and negative captions. Our key finding is that even state-of-the-art models like Gemini 1.5 Pro (49.3%) perform far below human accuracy (93.0%), showing they significantly struggle to associate agents with their actions, which is one of the most fundamental reasoning skills.

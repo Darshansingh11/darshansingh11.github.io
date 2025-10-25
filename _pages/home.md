@@ -41,7 +41,7 @@ I am broadly interested in the problems related to computer vision, natural lang
 
   <div class="text-left">
   <ul style="overflow: hidden">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/photo_darshan.jpeg" class="img-responsive" width="100%" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/photo_darshan.jpg" class="img-responsive" width="100%" />
   </ul>
 
   <!-- <br clear="all" /> -->
