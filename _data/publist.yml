@@ -1,3 +1,12 @@
+- title: 'CURVE: A Benchmark for Cultural and Multilingual Long Video Reasoning'
+  image: CURVE.png
+  description: we introduce CURVE, a challenging benchmark for multicultural and multilingual video reasoning. CURVE comprises high-quality, entirely human-generated annotations from diverse, region-specific cultural videos across 18 global locales in native languages Furthermore, we leverage CURVE’s reasoning traces to construct evidence-based graphs and propose a novel iterative strategy using these graphs to identify fine-grained errors in reasoning. Our evaluations reveal that SoTA Video-LLMs struggle significantly, performing substantially below human-level accuracy, with errors primarily stemming from the visual perception of cultural elements. 
+  authors: <b>Darshan Singh S</b>, Arsha Nagrani, Kawshik Manikantan, Harman Singh, Dinesh Tewari, Tobias Weyand, Cordelia Schmid, Anelia Angelova, Shachi Dave
+  number_link: 1
+  link1:
+    url: https://arxiv.org/pdf/2601.10649
+    display: Paper
+
 - title: 'Rethinking Cross-lingual Gaps from a Statistical Viewpoint'
   image: cross_lingual.png
   description: We propose an alternative view of the cross-lingual gap in LLMs, hypothesizing that the variance of responses in the target language (not just differences in latent representations) to be the primary cause behind the drop in performance. We are the first to formalize this gap using bias-variance decomposition, providing extensive experimental evidence to support our hypothesis. Our key finding is that this variance-driven gap can be significantly reduced; we demonstrate that simple inference-time interventions, including a specific prompt instruction to control variance, can improve target language accuracy by 20-25%.
