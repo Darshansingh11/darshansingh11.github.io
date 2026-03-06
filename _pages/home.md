@@ -16,7 +16,8 @@ Hi! I am a predoctoral researcher at Google DeepMind, India in the Foundational 
 
 Prior to this I spent five months at <a href="https://www.fastcode.ai/">FastCode AI</a> as a Machine Learning Engineer where I worked on Time-Series Foundation Models and Diffusion Models with <a href="https://www.arjunjain.co.in/">Arjun Jain</a>.
 
-Previously, I was a MS student in the <a href="https://cvit.iiit.ac.in/">CVIT</a> group at <a href="https://www.iiit.ac.in/">IIIT Hyderabad</a>, advised by <a href="https://faculty.iiit.ac.in/~jawahar/">Prof. C. V. Jawahar</a> and <a href="https://makarandtapaswi.github.io/">Prof. Makarand Tapaswi</a>. I also closely worked with <a href="https://vineet-gandhi.github.io/">Prof. Vineet Gandhi</a>. I am working in multimodal learning (jointly learning from vision and language modalities). Before this I was an Engineer at <a href="https://www.mbrdi.co.in/">Mercedes Benz Research & Development India</a>.
+Previously, I was a MS student in the <a href="https://cvit.iiit.ac.in/">CVIT</a> group at <a href="https://www.iiit.ac.in/">IIIT Hyderabad</a>, advised by <a href="https://faculty.iiit.ac.in/~jawahar/">Prof. C. V. Jawahar</a> and <a href="https://makarandtapaswi.github.io/">Prof. Makarand Tapaswi</a>. I also closely worked with <a href="https://vineet-gandhi.github.io/">Prof. Vineet Gandhi</a>. At IIIT I focussed on efficient multimodal representation learning and studying compositional reasoning in MLLMs. 
+<!-- Before this I was an Engineer at <a href="https://www.mbrdi.co.in/">Mercedes Benz Research & Development India</a>. -->
 
 I am broadly interested in the problems related to computer vision, natural language processing and multimodal representation learning (especially using self-supervision).
 
