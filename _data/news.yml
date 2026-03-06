@@ -1,8 +1,8 @@
 - date: Feb, 2026
-  headline: Excited to travel to Google DeepMind, London to present some of my recent work on multimodal learning!
+  headline: Super excited to announce that our new paper on <a href="https://arxiv.org/pdf/2601.10649">benchmarking long video reasoning in complex multilingual-mulicultural settings</a> has been accepted to <b>CVPR 2026</b> with strong ratings! We propose a novel multi-turn algorithm to distentangle reasoning and perception errors using evidence graphs. My 2nd consecutive CVPR paper! See you all in Denver!
 
-- date: Jan, 2026
-  headline: Checkout our new paper on <a href="https://arxiv.org/pdf/2601.10649">benchmarking long video reasoning in complex multilingual-mulicultural settings</a>! We also propose a novel multi-turn algorithm to distentangle reasoning and perception errors using evidence graphs.
+- date: Feb, 2026
+  headline: Excited to travel to Google DeepMind, London to present some of my recent work on video reasoning!
 
 - date: Oct, 2025
   headline: Our paper on <a href="https://openreview.net/forum?id=gqh0yzPYdo">fine-grained image captioning using self-retrieval</a> was recognized as top 10% by <b>TMLR</b>! and has been invited to present at ICLR 2026! Yay! See you in Rio de Janeiro I guess :) 
