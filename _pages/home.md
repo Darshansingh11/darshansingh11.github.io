@@ -46,7 +46,7 @@ I am broadly interested in the problems related to computer vision, natural lang
   </ul>
 
   <!-- <br clear="all" /> -->
-  <A HREF="mailto:darshan.singh@research.iiit.ac.in">darshan.singh@research.iiit.ac.in</A> <br>
+  <A HREF="mailto:darshan.singh@alumni.iiit.ac.in">darshan.singh@alumni.iiit.ac.in</A> <br>
 
 </div>
 
