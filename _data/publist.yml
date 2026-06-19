@@ -12,7 +12,7 @@
   image: CURVE.png
   description: We introduce CURVE, a challenging benchmark for multicultural and multilingual video reasoning. CURVE comprises high-quality, entirely human-generated annotations from diverse, region-specific cultural videos across 18 global locales in native languages Furthermore, we leverage CURVE’s reasoning traces to construct evidence-based graphs and propose a novel iterative strategy using these graphs to identify fine-grained errors in reasoning. Our evaluations reveal that SoTA Video-LLMs struggle significantly, performing substantially below human-level accuracy, with errors primarily stemming from the visual perception of cultural elements. 
   authors: <b>Darshan Singh S</b>, <a href="https://a-nagrani.github.io/">Arsha Nagrani</a>, <a href="https://kawshikmanikantan.github.io/">Kawshik Manikantan</a>, <a href="https://harmandotpy.github.io/">Harman Singh</a>,Dinesh Tewari, <a href="https://tobw.net/">Tobias Weyand</a>, <a href="https://scholar.google.com/citations?user=IvqCXP4AAAAJ&hl=en">Cordelia Schmid</a>, <a href="https://research.google/people/aneliaangelova/?&type=google">Anelia Angelova</a>, <a href="https://research.google/people/106762/?&type=google">Shachi Dave</a>
-  venue: <i>CVPR 2026</i>, <span style="color:red"><b>HIGHLIGHT</b> 🏅</span>
+  venue: <i>CVPR 2026</i>, <span style="color:red"><b>Highlight</b> 🏅</span>
   number_link: 1
   link1:
     url: https://arxiv.org/pdf/2601.10649
