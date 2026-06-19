@@ -1,8 +1,11 @@
-- date: Mar, 2026
-  headline: Our paper, SRL-CLIP, has been accepted to <a href="https://coe.northeastern.edu/event/3rd-cv4smalls-workshop-computer-vision-with-small-data-beyond-scale-toward-data-efficient-dynamically-aware-video-intelligence/">**CV4Smalls workshop at CVPR'26 - Beyond Scale Toward Data-Efficient Dynamically-Aware Video Intelligence**</a>! Also, nominated for the **best paper award**! More details on the paper to come soon :)
+- date: Jun, 2026
+  headline: CVPR was a blast! Outstanding Reviewer ✔️, Best Workshop Paper Award 🏆, **Highlight** Main Paper 🏅
+
+- date: Jun, 2026
+  headline: Our paper, <a href="https://arxiv.org/abs/2401.07669">**SRL-CLIP**</a>, has been accepted to <a href="https://coe.northeastern.edu/event/3rd-cv4smalls-workshop-computer-vision-with-small-data-beyond-scale-toward-data-efficient-dynamically-aware-video-intelligence/">**CV4Smalls workshop at CVPR'26 - Beyond Scale Toward Data-Efficient Dynamically-Aware Video Intelligence**</a> and won the **best paper award**!
 
 - date: Feb, 2026
-  headline: Thrilled to share that our new paper, <a href="https://arxiv.org/pdf/2601.10649">CURVE</a>, has been accepted to **CVPR 2026** with strong ratings! We study long video reasoning in complex multilingual-multicultural settings and propose a novel multi-turn algorithm to distentangle reasoning and perception errors using evidence graphs. My 2nd consecutive CVPR paper!
+  headline: Thrilled to share that our new paper, <a href="https://arxiv.org/pdf/2601.10649">CURVE</a>, has been accepted to **CVPR 2026** as a **Highlight**! We study long video reasoning in complex multilingual settings and propose a novel multi-turn algorithm to distentangle reasoning and perception errors using evidence graphs. My 2nd consecutive CVPR paper!
 
 - date: Feb, 2026
   headline: Excited to travel to **Google DeepMind, London** to present some of my recent work on multimodal learning for Gemini!
